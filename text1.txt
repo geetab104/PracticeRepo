@@ -1,10 +1,1 @@
- Volume in drive E is PERSONNEL
- Volume Serial Number is 7EAF-D8FC
-
- Directory of E:\GitPractise
-
-17-04-2020  08.37 AM    <DIR>          .
-17-04-2020  08.37 AM    <DIR>          ..
-17-04-2020  08.37 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  120,582,766,592 bytes free
+Deleted
